@@ -25,6 +25,14 @@ Python provides the greatest balance between readability, expressiveness, and fu
 
 These libraries provide a wealth of useful tools (fast matrix operations and optimization spring to mind) for nuclear engineers. They provide significant acceleration as well as providing (in a somewhat hidden way) typed N-dimensional arrays to Python.
 
+### Pandas
+
+Pandas dataframes are widely used throughout scientific computing for multivariate data. It interacts cleanly with NumPy and the associated arrays.
+
+### Visualization
+
+Matplotlib, Seaborn?
+
 ### Jupyter
 
 The Jupyter environment (specifically Jupyter Notebook) provides a ready-made UI for executing code snippets and plotting. It also simplifies

@@ -33,8 +33,13 @@ The Jupyter environment (specifically Jupyter Notebook) provides a ready-made UI
 
 WORDSWORDSWORDS
 
-## Tools we are not using
+## Tools we are not using, even though you should
 
 ### Git
 
-Version control is important to both scientists and programmers. We advise everyone who programs professionally to learn, live, and love Git and version control in general.
+Version control is important to both scientists and programmers. We advise everyone who programs professionally to learn, live, and love Git and version control in general. It is an important tool that is *slightly* out of scope for this project.
+
+## Additional resources we recommend
+
+- Anthony Scopatz and Kathryn D. Huff [Effective Computation in Physics](http://physics.codes)
+- [Data Carpentry](https://datacarpentry.org)

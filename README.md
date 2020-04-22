@@ -3,7 +3,7 @@ A python primer focused on the Nuclear Engineering undergraduate courses
 
 ## Motivation
 
-Nuclear engineers benefit tremendously from informal educational resources such as the Kansas State MCNP Primer. We would like to produce a similar resource for jumpstarting an undergraduate student's programming capability. Clearly a handful of PDF pages is insufficient to ``teach programming''; instead we seek to cover enough material to *get stuff done* using a programming language in the hopes that this provides the grounding for a motivated student to extend their knowledge using the many available resources suited to the task.
+Nuclear engineers benefit tremendously from informal educational resources such as the Kansas State MCNP Primer. We would like to produce a similar resource for jumpstarting an undergraduate student's programming capability. Clearly a handful of PDF pages is insufficient to "teach programming"; instead we seek to cover enough material to *get stuff done* using a programming language in the hopes that this provides the grounding for a motivated student to extend their knowledge using the many available resources suited to the task.
 
 ## Topics covered
 
@@ -24,6 +24,14 @@ Python provides the greatest balance between readability, expressiveness, and fu
 ### NumPy/SciPy
 
 These libraries provide a wealth of useful tools (fast matrix operations and optimization spring to mind) for nuclear engineers. They provide significant acceleration as well as providing (in a somewhat hidden way) typed N-dimensional arrays to Python.
+
+### Pandas
+
+Pandas dataframes are widely used throughout scientific computing for multivariate data. It interacts cleanly with NumPy and the associated arrays.
+
+### Visualization
+
+Matplotlib, Seaborn?
 
 ### Jupyter
 

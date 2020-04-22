@@ -31,7 +31,7 @@ Pandas dataframes are widely used throughout scientific computing for multivaria
 
 ### Visualization
 
-Matplotlib, Seaborn?
+Matplotlib and Seaborn are two complimentary data plotting tools. Matplotlib purports to make "the easy things easy and the hard things possible"; Seaborn claims to make some of the hard things easy. Both use intelligent defaults to ease the creation of data rich plots.
 
 ### Jupyter
 
